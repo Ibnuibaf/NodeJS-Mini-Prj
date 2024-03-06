@@ -96,3 +96,12 @@ This project is a mini web application for user authentication and management sy
   - `status`: HTTP status code.
   - `data`: Object with `success` boolean and `message` string.
 
+
+## Additional Info
+- Token is passing through headers in "Authorization".
+
+#### Admin Credentials
+- name: admin
+- password:1234 
+
+
